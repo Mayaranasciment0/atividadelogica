@@ -1,4 +1,4 @@
-programa 
+programa //Mayara Wyrla
 {
 	inclua biblioteca Matematica --> mat
 	
